@@ -2,4 +2,4 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nextjs-xzasa9)
 
-See vercel/next.js#32507
+See https://github.com/vercel/next.js/issues/32507
