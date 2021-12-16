@@ -8,6 +8,11 @@ module.exports = {
         destination: '/content/alpha',
         permanent: false,
       },
+      {
+        source: '/solution',
+        destination: '/solution/alpha',
+        permanent: false,
+      },
     ];
   },
 };
